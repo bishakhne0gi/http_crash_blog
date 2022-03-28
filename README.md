@@ -1,4 +1,4 @@
-###What is HTTP?
+### What is HTTP?
 
 1. Hyper Text Transfer Protocol
 2. Communication between web servers and clients
@@ -7,7 +7,7 @@
 4. Loading pages, form submit, Ajax calls
 
 
-###HTTP is stateless
+### HTTP is stateless
 
 1. Every request is completely independant
 2. Similar to transactions
@@ -20,31 +20,31 @@
 3. Secure Sockets Layer(SSL)
 4. Install certificate on web host
 
-###HTTP Methods
-#####1. GET:
+### HTTP Methods
+##### 1. GET:
 Retrieves data from the server. (Values are visible)
-####2. POST:
+#### 2. POST:
 Submit data to server
-####3. PUT:
+#### 3. PUT:
 Update data already on the server
-####4. Delete:
+#### 4. Delete:
 Deletes data from the server
 
-###HTTP STATUS CODES:
-####200- 
+### HTTP STATUS CODES:
+#### 200- 
 OK
-####201-
+#### 201-
  OK created
-####301- 
+#### 301- 
 Moved to new URL
-####304- 
+#### 304- 
 Not modified(cached version)
-####400- 
+#### 400- 
 Bad request
-####401- 
+#### 401- 
 Unauthorised
-####404- 
+#### 404- 
 Not found
-####500- 
+#### 500- 
 Internal server error
 
